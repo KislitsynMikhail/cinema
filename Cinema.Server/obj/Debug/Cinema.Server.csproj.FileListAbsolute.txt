@@ -84,3 +84,16 @@ C:\Users\Mi\source\repos\Cinema\Cinema.Server\obj\Debug\Cinema.Server.Migrations
 C:\Users\Mi\source\repos\Cinema\Cinema.Server\obj\Debug\Cinema.Server.csproj.GenerateResource.cache
 C:\Users\Mi\source\repos\Cinema\Cinema.Server\obj\Debug\Cinema.Server.Migrations.FilmSessionsTableCreating.resources
 C:\Users\Mi\source\repos\Cinema\Cinema.Server\obj\Debug\Cinema.Server.Migrations.OrdersTableCreating.resources
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.Owin.dll
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Owin.dll
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.Owin.xml
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mi\source\repos\Cinema\Cinema.Server\bin\Microsoft.Owin.Security.xml

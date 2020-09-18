@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using Cinema.Server.Hubs;
 using Cinema.Server.Models;
 
 namespace Cinema.Server.Controllers
@@ -52,6 +53,9 @@ namespace Cinema.Server.Controllers
             {
                 db.FilmSessions.Add(filmSession);
                 db.SaveChanges();
+
+                AppHub.Hub.SendFilmSessions();
+
                 return RedirectToAction("Index");
             }
 

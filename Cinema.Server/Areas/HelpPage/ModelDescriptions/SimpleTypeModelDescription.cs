@@ -1,0 +1,6 @@
+namespace Cinema.Server.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
